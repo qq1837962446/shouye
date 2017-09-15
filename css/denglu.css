@@ -1,0 +1,156 @@
+/*
+* @Author: Administrator
+* @Date:   2017-09-09 00:08:37
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-15 21:24:16
+*/
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:22px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 401517 */
+  src: url('https://at.alicdn.com/t/font_401517_xmci8weondji3sor.eot');
+  src: url('https://at.alicdn.com/t/font_401517_xmci8weondji3sor.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_401517_xmci8weondji3sor.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_401517_xmci8weondji3sor.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_401517_xmci8weondji3sor.svg#iconfont') format('svg');
+}
+header{
+	width: 100%;
+	height: .47rem;
+	/* background-color: #b0b0b0; */
+	float: left;
+	border-bottom:.02rem #d0d0d0 solid; 
+}
+.toubu{
+	width: .40rem;
+	height: .47rem;
+	/* background-color: yellow; */
+	float: left;
+}
+.toubu i{
+	display: block;
+	line-height: .47rem;
+	text-align: center;
+}
+.toubu1{
+	width: 2.85rem;
+	height: 100%;
+	/* background-color: red; */
+	float: left;
+}
+.toubu1-1{
+	width: .50rem;
+	height: .25rem;
+	/* background-color: yellow; */
+	margin: 0 auto;
+	margin-top: .12rem;
+}
+.toubu1-1 a{
+	font-size: .20rem;
+	display: block;
+}
+.toubu2{
+	width: .50rem;
+	height: .47rem;
+	/* background-color: #b0b0b0; */
+	float: right;
+}
+.toubu2 a{
+	font-size: .20rem;
+	display: block;
+	line-height: .47rem;
+	text-align: center;
+}
+section{
+	width: 100%;
+	height: 5.5rem;
+	/* background-color: red; */
+	float: left;
+}
+.reiru{
+	width: 3.45rem;
+	height: 1.11rem;
+	/* background-color: yellow; */
+	margin: 0 auto;
+	margin-top: .35rem;
+	overflow: hidden;
+}
+.reiru1{
+	width: 1.05rem;
+	height: 1.05rem;
+	/* background-color: #d0d0d0; */
+	margin: 0 auto;
+	margin-top: .02rem;
+	border-radius: 50%;
+}
+.renru2{
+	width: 3.45rem;
+	height: .25rem;
+	/* background-color: #b0b0b0; */
+	margin: 0 auto;
+	margin-top: .30rem;
+}
+.renru2 a{
+	font-size: .18rem;
+	display: block;
+	text-align: center;
+}
+.renru3{
+	width: 3.45rem;
+	height: .45rem;
+	/* background-color: #b0b0b0; */
+	margin: 0 auto;
+	margin-top: .15rem;
+}
+.neikuang{
+	width: 3.45rem;
+	height: .45rem;
+	float: left;
+	background-color: #c6f5fa;
+	font-size: .20rem;
+}
+.renru4{
+	width: 3.45rem;
+	height: .45rem;
+	background-color: #c6f5fa;
+	margin: 0 auto;
+	margin-top: .15rem;
+}
+.neikuang1{
+	width: 3.45rem;
+	height: .45rem;
+	float: left;
+	background-color: #c6f5fa;
+	font-size: .20rem;
+}
+.renru5{
+	width: 3.45rem;
+	height: .45rem;
+	background-color: red;
+	margin: 0  auto;
+	margin-top: .15rem;
+}
+.renru5 a{
+	font-size: .22rem;
+	display: block;
+	text-align: center;
+	line-height: .45rem;
+}
+.renru6{
+	width: 1rem;
+	height: .20rem;
+	/* background-color: #b0b0b0; */
+	float: right;
+	margin-top: .15rem;
+	margin-right: .15rem;
+}
+.renru6 a{
+	font-size: .16rem;
+	float: right;
+}

@@ -1,0 +1,375 @@
+/*
+* @Author: Administrator
+* @Date:   2017-09-06 22:50:42
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-15 21:22:45
+*/
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:30px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 401517 */
+  src: url('https://at.alicdn.com/t/font_401517_qmt5agtl403pu8fr.eot');
+  src: url('https://at.alicdn.com/t/font_401517_qmt5agtl403pu8fr.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_401517_qmt5agtl403pu8fr.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_401517_qmt5agtl403pu8fr.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_401517_qmt5agtl403pu8fr.svg#iconfont') format('svg');
+}
+header{
+	width: 100%;
+	height: .45rem;
+	background-color: #d0d0d0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	float: left;
+	z-index: 999;
+}
+section{
+	position: absolute;
+	top: .45rem;
+	left: 0rem;
+	right: 0rem;
+	bottom: .49rem;
+	/* background-color: yellow; */
+	margin: auto;
+}
+footer{
+	width: 100%;
+	height: .49rem;
+	background-color: #f5f5f5;
+	position: fixed;
+	bottom: 0rem;
+	/* margin-left: 0; */
+	left: 0;
+}
+.toubu{
+	width: .45rem;
+	height: .45rem;
+	/* background-color: #b0b0b0; */
+	margin-left: .08rem;
+	float: left;
+	display: block;
+}
+img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.toubu1{
+	width: 2.65rem;
+	height: .28rem;
+	/* background-color: #b0b0b0; */
+	float: left;
+	display: block; 
+	margin-left: .08rem;
+	margin-top: .085rem;
+	font-size: .16rem;
+}
+.sousukuang{
+	width: 100%;
+	height: 100%;
+	float: left;
+}
+.toubu2{
+	width: .49rem;
+	height: .28rem;
+	/* background-color: #b0b0b0; */
+	float: right;
+	margin-top: .085rem;
+	font-size: .16rem;
+}
+.neiru{
+	width: 100%;
+	height: 1.95rem;
+	/* background-color: red; */
+}
+.neiru1{
+	width: 100%;
+	height: 1.30rem;
+	background-color: #f5f5f5;
+	padding-top: .1rem;
+}
+.nerru1-1{
+	width: 3.65rem;
+	height: 1.10rem;
+	/* background-color: wheat; */
+	margin: 0 auto;
+	/* margin-top: .10rem; */
+	/* display: block; */
+
+
+}
+.renru1-2{
+	width: 25%;
+	height: 100%;
+	/* background-color: white; */
+	float: left;
+}
+.renru1-3{
+	width: .8rem;
+	height: .8rem;
+	/* background-color: #d0d0d0; */
+	border-radius:50%;
+	/* float: left;  */
+	background:blue url('../img/e.png');
+	background-size: cover;
+}
+.neiru1-4{
+	width: .8rem;
+	height: .28rem;
+	background-color: #f5f5f5;
+}
+.neiru1-4 h2{
+	font-size: .14rem;
+	line-height: .28rem;
+	text-align: center;
+	margin-top: .10rem;
+}
+.renru2{
+	height: 100%;
+	/* background-color: #b0b0b0; */
+}
+.renru2-1{
+	width: 100%;
+	height: .40rem;
+	/* background-color: #d0d0d0; */
+	padding-top: .17rem;
+}
+.renru2-2{
+	width: .60rem;
+	height: .15rem;
+	/* background-color: red; */
+	margin-left: .20rem;
+	float: left;
+}
+.renru2-3{
+	width: .66rem;
+	height: .15rem;
+	/* background-color: red; */
+	margin-right: .20rem;
+	float: right;
+
+}
+.renru2-4{
+	width: 100%;
+	height: 1.31rem;
+	background-color: #f5f5f5;
+	padding-top: .11rem;
+}
+.renru2-5{
+	width: 1rem;
+	height: 1rem;
+	/* background-color: #b0b0b0; */
+	margin-left: .1rem;
+	float: left;
+}
+.renru2-6{
+	width: 2.45rem;
+	height: 1rem;
+	background-color: #fff;
+	float: left;
+	margin-left: .10rem;
+}
+.renru2-61{
+	width: 2.45rem;
+	height: .38rem;
+	/* background-color: red; */
+	/* margin-top: .1rem; */
+}
+.renru2-61 h1{
+	font-size: .14rem;
+	/* margin-top: .2rem; */
+	line-height: .38rem;
+	margin-bottom: 0;
+}
+.renru2-62{
+	width: 1.35rem;
+	height: .46rem;
+	/* background-color: #d0d0d0; */
+	margin-top: .08rem;
+	float: left;
+}
+.renru2-63{
+	width: 100%;
+	height: .24rem;
+	/* background-color: #d0d0d0; */
+	float: left;
+}
+.renru2-63 h2{
+	font-size: .16rem;
+	line-height:.24rem;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: .15rem;
+}
+.renru2-65{
+	width: 100%;
+	height: .12rem;
+	/* background-color: red; */
+	margin-top: .04rem;
+	float: left;
+}
+.renru2-65 h3{
+	font-size: .12rem;
+	margin-left: .1rem;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.renru2-7{
+	width: .90rem;
+	height: .30rem;
+	/* background-color: #d0d0d0; */
+	float: right;
+	margin-right: .1rem;
+	margin-top: .2rem;
+	border-radius: .15rem;
+}
+.renru2-7 h4{
+	font-size: .20rem;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
+.dibu{
+	width: 25%;
+	height: 100%;
+	/* background-color: yellow; */
+	overflow: hidden;
+	margin: auto;
+	float: left;
+	
+}
+.dibu1{
+	width: .19rem;
+	height: .19rem;
+	/* background-color: red; */
+	margin: .064rem  .3737rem   .04rem  .3737rem ;  
+}
+.dibu2{
+	width: 100%;
+	height: .12rem;
+	/* background-color: red; */
+}
+.renru2-61 h4{
+	font-size: .16rem;
+	line-height:.38rem;
+}
+.renru2-63 h5{
+	font-size: .16rem;
+	line-height:.24rem;
+	margin-left: .15rem;
+}
+.renru2-61 h6{
+	font-size: .16rem;
+	line-height:.38rem;
+}
+.renru2-63 h5{
+	font-size: .16rem;
+	line-height:.24rem;
+	margin-left: .15rem;
+}
+.neiru1-q{
+	width: .8rem;
+	height: .23rem;
+	background-color: #f5f5f5;
+}
+.neiru1-w{
+	width: .8rem;
+	height: .28rem;
+	background-color:#f5f5f5;
+}
+.neiru1-q h3{
+	font-size: .14rem;
+	line-height: .28rem;
+	text-align: center;
+	margin-top: .10rem;
+}
+.neiru1-w h4{
+	font-size: .14rem;
+	line-height: .28rem;
+	text-align: center;
+	margin-top: .1rem;
+}
+.neiru1-4 h5{
+	font-size: .14rem;
+	line-height: .28rem;
+	text-align: center;
+	margin-top: .1rem;
+}
+.renru1-6{
+	width: .8rem;
+	height: .8rem;
+	background-color: #f5f5f5;
+	border-radius:50%;
+	background:blue url('../img/9.png');
+	background-size: cover;
+}
+.renru1-7{
+	width: .8rem;
+	height: .8rem;
+	background-color: #f5f5f5;
+	border-radius:50%;
+	background:blue url('../img/7.png');
+	background-size: cover;
+}
+.renru1-8{
+	width: .8rem;
+	height: .8rem;
+	background-color: #f5f5f5;
+	border-radius:50%;
+	background:blue url('../img/6.png');
+	background-size: cover;
+}
+.renru0{
+	font-size: .1rem;
+	display: block;
+}
+.renru2-2 a{
+	font-size: .1rem;
+	display: block;
+	text-align: center;
+}
+.dibu a{
+	font-size: .1rem;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.dibu1 i{
+	display: block;
+}
+.iconfont2 {
+    font-family:"iconfont" !important;
+    font-size:20px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+.dibu a{
+	display: block;
+	font-size: .1rem;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.dibu2 a{
+	font-size: .1rem;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.dibu2 a{
+	font-size: .1rem;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
